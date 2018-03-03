@@ -1,0 +1,4 @@
+.stack-work/
+git-list.cabal
+*~
+src/Hosts.hs
